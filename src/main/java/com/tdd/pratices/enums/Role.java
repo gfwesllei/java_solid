@@ -1,8 +1,8 @@
 package com.tdd.pratices.enums;
 
-import com.tdd.pratices._1SRP.solution.WageCalcule;
-import com.tdd.pratices._1SRP.solution.WageCalcule10Percent;
-import com.tdd.pratices._1SRP.solution.WageCalcule30Percent;
+import com.tdd.pratices.srp.solution.WageCalcule;
+import com.tdd.pratices.srp.solution.WageCalcule10Percent;
+import com.tdd.pratices.srp.solution.WageCalcule30Percent;
 
 public enum Role {
 
