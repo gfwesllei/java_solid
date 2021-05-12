@@ -1,4 +1,4 @@
-package com.tdd.pratices._2OCP.violation;
+package com.tdd.pratices._2ocp.violation;
 
 import com.tdd.pratices.enums.TipoConta;
 import lombok.Data;

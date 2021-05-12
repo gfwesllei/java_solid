@@ -1,4 +1,4 @@
-package com.tdd.pratices.srp.solution;
+package com.tdd.pratices._1srp.solution;
 
 public interface WageCalcule {
 

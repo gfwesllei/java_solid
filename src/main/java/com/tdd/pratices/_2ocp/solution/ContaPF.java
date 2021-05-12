@@ -1,4 +1,4 @@
-package com.tdd.pratices._2OCP.solution;
+package com.tdd.pratices._2ocp.solution;
 
 public class ContaPF extends Conta {
 

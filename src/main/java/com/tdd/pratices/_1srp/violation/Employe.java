@@ -1,4 +1,4 @@
-package com.tdd.pratices.srp.violation;
+package com.tdd.pratices._1srp.violation;
 
 import com.tdd.pratices.enums.Role;
 import com.tdd.pratices.excption.WageCalculateExcption;
