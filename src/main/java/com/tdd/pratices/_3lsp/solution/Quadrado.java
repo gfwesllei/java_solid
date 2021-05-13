@@ -1,6 +1,6 @@
 package com.tdd.pratices._3lsp.solution;
 
-import com.tdd.pratices.excption.ParalelogramaExcption;
+import com.tdd.pratices.exception.ParalelogramaExcption;
 import lombok.Data;
 
 @Data

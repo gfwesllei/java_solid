@@ -1,7 +1,7 @@
 package com.tdd.pratices._1srp.violation;
 
 import com.tdd.pratices.enums.Role;
-import com.tdd.pratices.excption.WageCalculateExcption;
+import com.tdd.pratices.exception.WageCalculateExcption;
 import lombok.Data;
 
 @Data

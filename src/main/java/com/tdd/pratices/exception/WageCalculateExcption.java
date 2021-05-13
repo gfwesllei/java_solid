@@ -1,4 +1,4 @@
-package com.tdd.pratices.excption;
+package com.tdd.pratices.exception;
 
 public class WageCalculateExcption extends RuntimeException {
     public WageCalculateExcption(String message) {

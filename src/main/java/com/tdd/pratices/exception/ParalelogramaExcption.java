@@ -1,4 +1,4 @@
-package com.tdd.pratices.excption;
+package com.tdd.pratices.exception;
 
 public class ParalelogramaExcption extends RuntimeException {
     public ParalelogramaExcption(String s) {
